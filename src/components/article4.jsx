@@ -81,9 +81,9 @@ function Article4() {
           </div>
           </div>
 
-          <div className="bg-white mt-4 rounded-2xl flex-shrink-0 transition-transform duration-300 transform hover:scale-105 hover:rotate-x-2 hover:rotate-y-2 hover:shadow-xl w-96 h-[600px]">
-            <p className='font-semibold ml-4 p-6'>Apple Watch Straps</p>
-            <h2 className='text-3xl font-semibold ml-6 p-4 '>Show your true colours.</h2>
+          <div className="bg-white mt-4 rounded-2xl p-6 flex-shrink-0 transition-transform duration-300 transform hover:scale-105 hover:rotate-x-2 hover:rotate-y-2 hover:shadow-xl w-96 h-[600px]">
+            <p className='font-semibold ml-4'>Apple Watch Straps</p>
+            <h2 className='text-3xl font-semibold ml-4 mt-4'>Show your true colours.</h2>
             <img src={f8}></img>
           </div>
 

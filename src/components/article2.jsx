@@ -20,12 +20,12 @@ function Article2() {
 
             <div className="mt-6 flex items-center  mx-6 gap-4 w-full overflow-x-auto overflow-y-hidden scrollbar-hide p-6 md:ml-8 ">
 
-                <div className=" bg-white mt-4 p-4 rounded-2xl flex-shrink-0 transition-transform duration-300 transform hover:scale-105 hover:rotate-x-2 hover:rotate-y-2 hover:shadow-xl w-96 h-[500px]  ">
+                <div className=" bg-white mt-4 p-4 rounded-2xl flex-shrink-0 transition-transform duration-300 transform hover:scale-105 hover:rotate-x-2 hover:rotate-y-2 hover:shadow-xl w-96 ">
                     <h2 className="font-semibold text-2xl">Make the ultimate study group</h2>
                     <img src={e1}></img>
                 </div>
 
-                <div className=" bg-white mt-4 p-6 rounded-2xl flex-shrink-0 transition-transform duration-300 transform hover:scale-105 hover:rotate-x-2 hover:rotate-y-2 hover:shadow-xl w-96 " >
+                <div className=" bg-white mt-4 p-6 rounded-2xl flex-shrink-0 transition-transform duration-300 transform hover:scale-105 hover:rotate-x-2 hover:rotate-y-2 hover:shadow-xl w-96  " >
                     <img className="w-full h-full object-cover" src={e2}></img>
                     <p className="text-red-500">Free Engraving</p>
                     <h2 className="text-xl font-semibold">Apple Pencil Pro</h2>
