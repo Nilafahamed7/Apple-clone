@@ -1,0 +1,22 @@
+import React from 'react'
+
+const Notes = () => {
+    return (
+        <div className='mt-16 text-gray-400 mx-8 text-sm'>
+            <p>◊◊ Monthly pricing is after purchase using EMI with qualifying cards at 15.99% p.a. over a 12‑month tenure. Monthly pricing is rounded to the nearest rupee. Exact pricing will be provided by your card issuer, subject to your card issuer’s terms and conditions.</p>
+            <p className='mt-2'>Representative example:
+                A purchase of ₹79900.00 repaid over 12 months with an interest rate of 15.99% p.a. requires monthly payments of ₹7249.00. Total amount payable: ₹86988.00. Total interest paid to bank: ₹7088.00.</p>
+            <p className='mt-2'>◊◊◊ Qualified Purchasers can receive Promotion Savings when they purchase an eligible Mac or iPad with their choice of a Promotion Product at a Qualifying Location. Customers will be charged for all items in their cart, including the Promotion Product. Only one Promotion Product can be obtained per eligible Mac or iPad per Qualified Purchaser. The offer is subject to availability, while supplies last. View full terms and conditions of offer here.</p>
+            <p className='mt-2'>* Mac, iPad, and Apple Watch trade-in is available only in-store in India. Apple Retail Online in India does not offer trade-in for Mac, iPad, and Apple Watch. Trade‑in values will vary based on the condition, year and configuration of your eligible trade‑in device. Not all devices are eligible for credit. You must be at least the age of majority to be eligible to trade in for credit. Trade‑in value may be applied towards a qualifying new device purchase. Actual value awarded is based on receipt of a qualifying device matching the description provided when estimate was made. Sales tax may be assessed on full value of a new device purchase. In-store trade‑in requires presentation of a valid photo ID (local law may require saving this information). Some stores may have additional requirements. Apple or its trade‑in partners reserve the right to refuse, cancel or limit the quantity of any trade‑in transaction for any reason. More details are available from Apple’s trade‑in partner for trade‑in and recycling of eligible devices. Restrictions and limitations may apply.</p>
+
+            <p className='mt-2'>** Quantity limits apply. Visit Sales & Refund Policy for full terms and conditions.</p>
+            <p className='mt-2'>** To use iCloud you need at least iOS 10 on iPhone 5, iPod touch (6th generation), iPad (4th generation) or iPad mini 2; watchOS 3 on an Apple Watch; macOS Sierra 10.12 on a Mac; tvOS 4 on an Apple TV (4th generation); or visionOS 1 on an Apple Vision Pro; or a PC with Windows 11 or later (Outlook 2019 or later or an up-to-date browser is required for accessing email, contacts and calendars). Some features require iOS 16, iPadOS 16 and macOS Ventura. Some features require a Wi-Fi connection. Some features are not available in all countries or regions. Access to some services is limited to 10 devices.</p>
+            <p className='mt-2'>∆ Apple Intelligence is available in beta on all iPhone 16 models, iPhone 15 Pro, iPhone 15 Pro Max, iPad mini (A17 Pro), and iPad and Mac models with M1 and later, with Siri and device language set to Chinese (Simplified), English (Australia, Canada, India, Ireland, New Zealand, Singapore, South Africa, UK or US), French, German, Italian, Japanese, Korean, Portuguese (Brazil) or Spanish, as part of an iOS 18, iPadOS 18 and macOS Sequoia software update, with more languages coming over the course of the year, including Vietnamese. Some features may not be available in all regions or languages.</p>
+            <p className='mt-2'>°° Limited-time offer; offer may end at any time. Free Apple TV+ access for students ends when you no longer qualify or do not renew your Apple Music Student subscription. Offer valid for verified university students only and does not extend to a Family Sharing group. F1® The Album available 27 June on Apple Music.</p>
+            <p className='mt-2'>‡ Listed pricing is Maximum Retail Price (inclusive of all taxes).</p>
+            <p className='mt-2'>We use your location to show you delivery options faster. We found your location using your IP address or because you entered it during a previous visit to Apple.</p>
+        </div>
+    )
+}
+
+export default Notes
